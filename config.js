@@ -10,7 +10,7 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     title: 'An NYC Chess Ethnography',
-    subtitle: "how manhattan's four distinct chess scenes experience and optimize their game",
+    subtitle: "how Manhattan's four distinct chess scenes experience and optimize their game",
     byline: 'By Stanley Dai',
     footer: 'Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template. Link to <a href="https://github.com/stanleydai/outdoorchess" target="_blank">Github for more.',
     chapters: [
